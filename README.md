@@ -1,1 +1,1 @@
-# ozon-test-task
+# NextJS Starter Kit

@@ -6,7 +6,7 @@ import { Providers } from './providers'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Ozon Test Task',
+  title: 'nextjs-starter-kit',
 }
 
 export default function RootLayout({ children }: { children: ReactNode }) {
